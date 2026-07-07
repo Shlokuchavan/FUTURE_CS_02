@@ -1,12 +1,12 @@
 # Phishing Detection & Awareness Report
 
-## Project Overview
+# Project Overview
 
 This project demonstrates the analysis of phishing emails and highlights common phishing techniques used by attackers. The objective is to identify phishing indicators, analyze email headers, classify email risks, and provide security awareness guidelines to help users recognize and avoid phishing attacks.
 
 The repository contains sample phishing emails, email header analysis, screenshots, and a detailed phishing detection report.
 
----
+
 
 # Objectives
 
@@ -17,7 +17,6 @@ The repository contains sample phishing emails, email header analysis, screensho
 * Document findings in a professional report.
 * Provide phishing prevention and awareness recommendations.
 
----
 
 # Tools Used
 
@@ -32,7 +31,6 @@ The following tools were used during the analysis:
 | GitHub                               | Storing project files and documentation.                                                                              |
 | Microsoft Word / Canva               | Preparing and designing the final project report.                                                                     |
 
----
 
 # Analysis Approach
 
