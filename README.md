@@ -85,6 +85,6 @@ The findings were documented using screenshots, email header analysis, phishing 
 Best practices and preventive measures were included to educate users on identifying and avoiding phishing attacks.
 
 
-# Conclusion
+## Conclusion
 
 This project demonstrates a structured approach to phishing email analysis by combining email header inspection, sender domain verification, phishing indicator identification, and risk classification. The findings emphasize the importance of user awareness and proper email verification techniques in defending against phishing attacks.
